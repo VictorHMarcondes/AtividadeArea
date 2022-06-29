@@ -1,0 +1,11 @@
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\bin\Debug\AtividadeArea.exe.config
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\bin\Debug\AtividadeArea.exe
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\bin\Debug\AtividadeArea.pdb
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\obj\Debug\AtividadeArea.csproj.AssemblyReference.cache
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\obj\Debug\AtividadeArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\obj\Debug\AtividadeArea.Form1.resources
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\obj\Debug\AtividadeArea.Properties.Resources.resources
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\obj\Debug\AtividadeArea.csproj.GenerateResource.cache
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\obj\Debug\AtividadeArea.csproj.CoreCompileInputs.cache
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\obj\Debug\AtividadeArea.exe
+C:\Users\victor.hmsilva20\OneDrive - SENAC - SP\Documentos\uc12\AtividadeArea\AtividadeArea\obj\Debug\AtividadeArea.pdb
